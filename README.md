@@ -6,3 +6,16 @@ The project uses data from IBM about users visiting and reading particular artic
 
 ## Libraries
 
+- numpy
+- pandas
+- matplotlib
+- pickle
+
+## Structure
+
+1. Explanatory Data Analysis
+2. Rank-based recommendations
+3. User-user based collaboratorive filtering
+4. Matrix factorization
+
+
